@@ -1,7 +1,6 @@
 package src.loops;
 import java.util.Scanner;
 
-
 public class gp {
 
      public static void main(String[] args){
@@ -14,6 +13,6 @@ public class gp {
             System.out.println("Term " + i + ": " + a);
             a *= d;
     }
-        sc.close();
+    sc.close();
 }
 }
